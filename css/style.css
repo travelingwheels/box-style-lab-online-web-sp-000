@@ -40,7 +40,21 @@ img:hover {
   background-color: #44cc66;
 }
 
+h4.amiable {
+  background: linear-gradient(
+    to right,
+    #118833,
+    #66ee88
+  );
+}
 
+h4.amiable:hover {
+  background: linear-gradient(
+    to right,
+    #66ee88,
+    #118833
+  );
+}
 
 .indifferent {
   background-color: #dddd22;
